@@ -1,5 +1,3 @@
-![Web Developer](https://pbs.twimg.com/media/GCnJ1POa8AAoRfD?format=jpg&name=medium)
-
 ### Hi there 👋, I'm Liton
 #### Web Developer
 
